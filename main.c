@@ -13,7 +13,7 @@
 
 int main(void) {
 	// nettoyage du terminal des commandes de compilation
-	//system("clear"); 
+	system("clear"); 
 
 	///////////////
 	// Variables //
