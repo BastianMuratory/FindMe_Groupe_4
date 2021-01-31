@@ -7,7 +7,6 @@ Les fonctions de Moumouni sont mis en commentaire en bas du fichier, parce que a
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-//#include <conio.>
 
 #include "descripteurAudio.h"
 
